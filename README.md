@@ -7,7 +7,7 @@ Assédio inclui comentários verbais / eletrônicos ofensivos relacionados a car
 
 Se um participante se envolver em comportamento de assédio, representantes da comunidade podem tomar medidas razoáveis que considerem apropriadas, incluindo advertir o infrator, expulsão de qualquer evento PyLadies, ou expulsão de listas de discussão, chats do IRC, fóruns de discussão e outros canais de comunicação eletrônica para resolver o problema. Isso pode incluir a expulsão da associação do grupo PyLadies Meetup.
 
-Se estiver sendo assediado, observe que outra pessoa está sendo assediada ou tenha outras dúvidas, aja para interceder ou peça ajuda a qualquer membro da comunidade PyLadies, administradores de bate-papo do IRC, administradores de sites ou organizadoras / representantes de eventos físicos realizados sob os auspícios da PyLadies.
+Se estiver sendo assediado, observe que outra pessoa está sendo assediada ou tenha outras dúvidas, aja para interceder ou peça ajuda a qualquer membro da comunidade PyLadies, administradoras de bate-papo do IRC, administradoras de sites ou organizadoras / representantes de eventos físicos realizados sob os auspícios da PyLadies.
 
 Este Código de Conduta foi adaptado da [Fundação Plone](https://plone.org/foundation/materials/foundation-resolutions/code-of-conduct) e está licenciado sob uma [licença Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/).
 
